@@ -1,0 +1,40 @@
+skill,jobs,percent_of_jobs
+German,407,75.5
+English,354,65.7
+Python,316,58.6
+SQL,205,38.0
+Machine Learning,181,33.6
+Statistics,120,22.3
+Power BI,113,21.0
+LLM / GenAI,100,18.6
+Azure,91,16.9
+Git,69,12.8
+ETL,67,12.4
+R,59,10.9
+AWS,55,10.2
+SAP,49,9.1
+Excel,48,8.9
+Spark,47,8.7
+GCP,47,8.7
+PyTorch,47,8.7
+Docker,46,8.5
+Databricks,42,7.8
+Tableau,39,7.2
+Linux,35,6.5
+Kubernetes,34,6.3
+TensorFlow,32,5.9
+Java,32,5.9
+scikit-learn,30,5.6
+Pandas,29,5.4
+MLOps,27,5.0
+Deep Learning,26,4.8
+Snowflake,25,4.6
+Airflow,24,4.5
+C++,20,3.7
+dbt,20,3.7
+NumPy,19,3.5
+NLP,18,3.3
+JavaScript,17,3.2
+Kafka,13,2.4
+Scala,9,1.7
+Hadoop,7,1.3
